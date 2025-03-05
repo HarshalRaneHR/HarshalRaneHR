@@ -4,9 +4,9 @@
 
 <br>
 
-- 🔭 I’m currently working on Python and some FrontEnd Projects..
+- 🔭 I’m currently working on React and some MERN Stack Projects..
 
-- 🌱 I’m currently learning Machine Learning..
+- 🌱 I’m currently learning AWS services..
 
 - 👯‍♀️ I'm looking to collaborate on... Intermediate Projects..
 
